@@ -11,6 +11,6 @@ citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://arxiv.org/abs/2410.23478)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Gururaja, S., Zhang, Y., Tang, G., Zhang, T., Murphy, K., Yi, Y.T., Seo, J., Rollett, A. and Strubell, E., 2024. Collage: Decomposable Rapid Prototyping for Information Extraction on Scientific PDFs. arXiv preprint arXiv:2410.23478.
