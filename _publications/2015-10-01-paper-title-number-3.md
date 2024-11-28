@@ -10,6 +10,6 @@ citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S0038092X22000676)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Tano, I.N., Rasouli, E., Ziev, T., Wu, Z., Lamprinakos, N., Seo, J., Balhorn, L.S., Vaishnav, P., Rollett, A. and Narayanan, V., 2022. An additively-manufactured molten salt-to-supercritical carbon di-oxide primary heat exchanger for solar thermal power generation–Design and techno-economic performance. Solar Energy, 234, pp.152-169.
