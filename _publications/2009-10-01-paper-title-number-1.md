@@ -2,14 +2,14 @@
 title: "Study of the Printability, Microstructures, and Mechanical Performances of Laser Powder Bed Fusion Built Haynes 230"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This paper is about printing Haynes 230 alloy notorious for cracking upon LPBF. Check out how we mitigated cracking!'
+date: 2022-08-19
+venue: 'Metals'
+paperurl: 'https://www.mdpi.com/2075-4701/12/8/1380'
+citation: 'Wu, Z., Yarasi, S.R., Seo, J., Lamprinakos, N. and Rollett, A.D., 2022. Study of the printability, microstructures, and mechanical performances of laser powder bed fusion Built Haynes 230. Metals, 12(8), p.1380.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+'This paper is about printing Haynes 230 notorious for cracking upon LPBF. Check out how we mitigated cracking!'
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.mdpi.com/2075-4701/12/8/1380)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Wu, Z., Yarasi, S.R., Seo, J., Lamprinakos, N. and Rollett, A.D., 2022. Study of the printability, microstructures, and mechanical performances of laser powder bed fusion Built Haynes 230. Metals, 12(8), p.1380.
