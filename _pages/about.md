@@ -9,7 +9,7 @@ redirect_from:
 ---
 Welcome to my website! I am a Ph.D. Candiate in the Department of [Materials Science and Engineering](https://www.materials.cmu.edu/) at [Carnegie Mellon](https://www.cmu.edu/) advised by Professor [Anthony Rollett](https://en.wikipedia.org/wiki/Anthony_Rollett). 
 =====
-I am an ethusiastic researcher of Metal Additive Manufacturing (AM), specifically Powder Bed Fusion (PBF) of Nickel-based Superalloys. My goal is to make AM reliable and approachable enough that it can be 
+I am an ethusiastic researcher of Metal Additive Manufacturing (AM), specifically Powder Bed Fusion (PBF) of Nickel-based Superalloys. My goal is to make AM reliable and approachable enough that it can be an eco-friendly manufacturing method for everyday things.
 
 Prior to joining Carnegie Mellon, I was an undergraduate intern at [IBS](https://www.ibs.re.kr/eng.do) (Institute for Basic Science), post-graduate resaercher at [Max Planck Institute](https://www.mpg.de/en) and a Machine Learning Intern at [KIST](https://www.kist.re.kr/eng/index.do) (Korea Institute of Science and Technology).
 
