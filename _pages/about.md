@@ -8,20 +8,16 @@ redirect_from:
   - /about.html
 ---
 Welcome to my website! I am a Ph.D. Candiate in the Department of [Materials Science and Engineering](https://www.materials.cmu.edu/) at [Carnegie Mellon](https://www.cmu.edu/) advised by Professor [Anthony Rollett](https://en.wikipedia.org/wiki/Anthony_Rollett). 
-=====
+-----
 I am an ethusiastic researcher of Metal Additive Manufacturing (AM), specifically Powder Bed Fusion (PBF) of Nickel-based Superalloys. My goal is to make AM reliable and approachable enough that it can be an eco-friendly manufacturing method for everyday things.
 
-Prior to joining Carnegie Mellon, I was an undergraduate intern at [IBS](https://www.ibs.re.kr/eng.do) (Institute for Basic Science), post-graduate resaercher at [Max Planck Institute](https://www.mpg.de/en) and a Machine Learning Intern at [KIST](https://www.kist.re.kr/eng/index.do) (Korea Institute of Science and Technology).
+Prior to joining Carnegie Mellon, I was an undergraduate intern at the [IBS](https://www.ibs.re.kr/eng.do) (Institute for Basic Science), post-graduate resaercher at [Max Planck Institute](https://www.mpg.de/en) and a machine learning Intern at [KIST](https://www.kist.re.kr/eng/index.do) (Korea Institute of Science and Technology).
 
 My , Microstructure Characterization, Energy Applications, Computational Materials Science, Computer Vision, Large Language Models
 
 Materials Science and Machine Learning
 ------
 For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-
-Create content & metadata
-======
 
 
 **Markdown generator**
