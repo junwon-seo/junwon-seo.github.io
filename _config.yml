@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Junwon SEO"
+title                    : "Junwon Seo"
 title_separator          : "-"
 name                     : &name "Junwon SEO"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Junwon Seo"
-  avatar           : "profile.png"
+  avatar           : "1714278578590.jfif"
   bio              : "Ph.D. Candidate at Carnegie Mellon University, Department of Materials Science and Engineering"
   location         : "Pittsburgh, PA, USA"
   employer         :
