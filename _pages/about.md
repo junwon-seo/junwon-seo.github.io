@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my website! I am a Ph.D. Candiate in the Department of [Materials Science and Engineering](https://www.materials.cmu.edu/) at [Carnegie Mellon](https://www.cmu.edu/) advised by Professor [Anthony Rollett](https://en.wikipedia.org/wiki/Anthony_Rollett). 
 ------
-My research interests span across Materials Science and Machine Learning
+My research interests span across Metal Additive Manufacturing (AM), Powder Bed Fusion (PBF), Process Optimization, Nickel-based Superalloys, Microstructure Characterization, Energy Applications, Computational Materials Science, Computer Vision, Large Language Models
 
 Materials Science and Machine Learning
 ------
