@@ -15,10 +15,4 @@ Prior to joining Carnegie Mellon, I was an undergraduate intern at [IBS](https:/
 
 I graduated from [Korea Universuty](https://www.korea.edu/sites/en/index.do) Department of [Materials Science and Engineering](https://mse.korea.ac.kr/index.php)), where I served as the president of an academic society [KUMUS](https://mse.korea.ac.kr/bbs/board.php?bo_table=sub5_7), student representative of my class of 2020, and a member a Street Dance team [KUDT](https://www.youtube.com/c/KUDTdancers)! I was born and raised in Seoul, Korea and spent a few years in [Brisbane](https://en.wikipedia.org/wiki/Brisbane), Austraila during my elementary school years.
 
-
-Materials Science and Machine Learning
-------
-%For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/1920px-Michaelmano-story-bridge.jpg)
+![This is what Brisbane looks like!](/images/1920px-Michaelmano-story-bridge.jpg)
