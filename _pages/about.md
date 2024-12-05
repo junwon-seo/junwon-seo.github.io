@@ -10,7 +10,12 @@ redirect_from:
 Welcome to my website! 
 I am a Ph.D. Candiate in the Department of [Materials Science and Engineering](https://www.materials.cmu.edu/) at [Carnegie Mellon](https://www.cmu.edu/) advised by Professor [Anthony Rollett](https://en.wikipedia.org/wiki/Anthony_Rollett). 
 ------
-My research interests span across Metal Additive Manufacturing (AM), Powder Bed Fusion (PBF), Process Optimization, Nickel-based Superalloys, Microstructure Characterization, Energy Applications, Computational Materials Science, Computer Vision, Large Language Models
+I am an ethusiastic researcher of Metal Additive Manufacturing (AM), specifically Powder Bed Fusion (PBF) of Nickel-based Superalloys.
+I also have experience in 
+
+Prior to joining Carnegie Mellon, I was an undergraduate intern at IBS, post-graduate resaercher at [Max Planck Institute](https://www.mpg.de/en) and a Machine Learning Intern at [KIST](https://www.kist.re.kr/eng/index.do) (Korea Institute of Science and Technology).
+
+My , Microstructure Characterization, Energy Applications, Computational Materials Science, Computer Vision, Large Language Models
 
 Materials Science and Machine Learning
 ------
