@@ -10,9 +10,9 @@ redirect_from:
 
 Welcome to my website! 
 ======
-# I am a Ph.D. Candiate in the Department of [Materials Science and Engineering](https://www.materials.cmu.edu/) at [Carnegie Mellon](https://www.cmu.edu/)!
-About
-I am a Software Engineering PhD student at Carnegie Mellon University advised by Limin Jia. My research interests span across compilers, programming languages, formal methods, and software engineering
+# I am a Ph.D. Candiate in the Department of [Materials Science and Engineering](https://www.materials.cmu.edu/) at [Carnegie Mellon](https://www.cmu.edu/) advised by Professor [Anthony Rollett](https://en.wikipedia.org/wiki/Anthony_Rollett). 
+
+My research interests span across compilers, programming languages, formal methods, and software engineering
 
 
 
