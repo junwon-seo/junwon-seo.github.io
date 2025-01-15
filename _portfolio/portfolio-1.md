@@ -1,6 +1,6 @@
 ---
-title: "10-708 PGM - Estimating model uncertainty with evidential regression"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Estimating model uncertainty with evidential regression"
+excerpt: "10-708 Probabilistic Graphical Models Term Paper -  item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
